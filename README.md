@@ -4,7 +4,8 @@
 
 Input image:
 
-![input](https://github.com/bishwa221/image_cleansing/assets/94813630/c12cce52-6b18-4f80-adcf-56892aa6631d)
+![input](https://github.com/bishwa221/image_cleansing/assets/94813630/e733b62e-a208-4512-a0df-da468a4d2a6f)
+
 
 Output images:
 
