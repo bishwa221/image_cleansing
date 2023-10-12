@@ -1,4 +1,4 @@
-# Image Cleansing
+# Image Cleansing (Pattern and Uniformity Enhancement)
 ### Making the illumination Uniform
 ### Extracting hidden Pattern
 
